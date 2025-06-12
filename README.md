@@ -2,8 +2,6 @@
 A beautiful, minimal URL shortener built with React, TypeScript, and Tailwind CSS. Instantly shorten URLs and track click analytics with a clean UI.
 Here's a complete `README.md` file for your **Seekify** project, ready to be added to your repository:
 
-![Seekify Screenshot](./screenshot.png)
-
 ## ✨ Features
 
 - 🔗 Shorten long URLs instantly
@@ -54,7 +52,7 @@ seekify/
 ```
 
 ## 📸 Screenshot
-
+![Seekify Screenshot](./seekify.png)
 > Add a screenshot of your deployed app or development view for better clarity.
 > You can rename one of your uploaded screenshots as `screenshot.png` and place it in the root directory.
 
